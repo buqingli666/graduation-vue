@@ -1,0 +1,9 @@
+******Build Instructions******
+Description:
+This project needs to be built with Nodejs v12.22.12 version, 
+otherwise the version is too high, 
+which will lead to a list of problems such as dependency errors;
+Author:
+BuQingli
+Time:
+2024.4.4
